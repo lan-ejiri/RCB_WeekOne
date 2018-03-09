@@ -1,0 +1,45 @@
+body {
+
+}
+
+.fixed {
+    position: fixed;
+    width: 200px  ;
+    height: 100px ;
+    background-color: #eee;
+
+            /* when im working with divs i always like to use borders 
+            just to see exactly the size of what im working with */
+}
+
+.content{
+    width: 800px;
+    margin: 0 auto;
+
+}
+
+
+.boxes {
+    background-color: #eee;
+    width: 100%;
+    height: 200px;
+    position: relative;
+    /* not sure exactly what to do here 
+    if yall are watching feel free to chime in at any point*/
+}
+
+.abso {
+
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: #777;
+
+}
+
+p {
+    line-height: 1.5;
+
+}

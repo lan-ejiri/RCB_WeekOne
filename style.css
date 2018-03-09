@@ -1,0 +1,39 @@
+
+
+a {
+    color: #777;
+    background: pink;
+}
+
+
+
+a:focus { color: yellow;
+
+}
+
+a:hover { color: green;
+        background: grey;
+
+}
+
+a:active { color: orange;
+
+}
+
+button{
+    color: green;
+    background-color: pink;
+    padding: 5px;
+}
+
+
+
+button:hover {
+    background-color: purple;   
+}
+
+
+
+button:active {
+    background-color: blue;
+}
